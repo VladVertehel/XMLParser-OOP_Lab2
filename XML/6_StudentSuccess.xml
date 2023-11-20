@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+	<faculty name="Факультет інформаційних технологій">
+		<department name="Кафедра інтелектуальних та інформаційних систем">
+			<discipline name="Вища математика">
+				<student name="Петренко Данило Владиславович" grade="63"/>
+				<student name="Кулинич Вадим Владиславович" grade="76"/>
+				<student name="Прущак Владислав Прущакєвіч" grade="3"/>
+				<student name="Чєряк В'ячеслав Владиславович" grade="100"/>
+				<student name="Тищук Сергій Петрович" grade="80"/>
+			</discipline>
+			<discipline name="Англійська мова">
+				<student name="Петренко Данило Владиславович" grade="79"/>
+				<student name="Кулинич Вадим Владиславович" grade="68"/>
+				<student name="Прущак Владислав Прущакєвіч" grade="83"/>
+				<student name="Чєряк В'ячеслав Владиславович" grade="100"/>
+				<student name="Тищук Сергій Петрович" grade="61"/>
+			</discipline>
+			<discipline name="Програмування">
+				<student name="Петренко Данило Владиславович" grade="89"/>
+				<student name="Кулинич Вадим Владиславович" grade="95"/>
+				<student name="Прущак Владислав Прущакєвіч" grade="61"/>
+				<student name="Чєряк В'ячеслав Владиславович" grade="100"/>
+				<student name="Тищук Сергій Петрович" grade="74"/>
+			</discipline>
+			<discipline name="Фізика">
+				<student name="Петренко Данило Владиславович" grade="60"/>
+				<student name="Кулинич Вадим Владиславович" grade="60"/>
+				<student name="Прущак Владислав Прущакєвіч" grade="99"/>
+				<student name="Чєряк В'ячеслав Владиславович" grade="100"/>
+				<student name="Тищук Сергій Петрович" grade="100"/>
+			</discipline>
+		</department>
+		<department name="Кафедра інформаційних систем та технологій">
+			<discipline name="Дискретна математика">
+				<student name="Замирайло Владислав Генійович" grade="85"/>
+				<student name="Вертегел Владислав Вертегелович" grade="0"/>
+				<student name="Квітка Владислав Трояндович" grade="80"/>
+			</discipline>
+			<discipline name="Програмування">
+				<student name="Замирайло Владислав Генійович" grade="76"/>
+				<student name="Вертегел Владислав Вертегелович" grade="65"/>
+				<student name="Квітка Владислав Трояндович" grade="100"/>
+			</discipline>
+			<discipline name="Фізична культура">
+				<student name="Замирайло Владислав Генійович" grade="70"/>
+				<student name="Вертегел Владислав Вертегелович" grade="99"/>
+				<student name="Квітка Владислав Трояндович" grade="82"/>
+			</discipline>
+		</department>
+	</faculty>
+	<faculty name="Факультет комп'ютерних наук та кібернетики">
+		<department name="Кафедра математичної інформатики">
+			<discipline name="Дискретна математика">
+				<student name="Богдашин Кирило Вадимович" grade="89"/>
+				<student name="Іващук Кирило Бубіч" grade="70"/>
+			</discipline>
+			<discipline name="Алгебра та геометрія">
+				<student name="Богдашин Кирило Вадимович" grade="78"/>
+				<student name="Іващук Кирило Бубіч" grade="60"/>
+			</discipline>
+			<discipline name="Математична логіка">
+				<student name="Богдашин Кирило Вадимович" grade="99"/>
+				<student name="Іващук Кирило Бубіч" grade="100"/>
+			</discipline>
+			<discipline name="Математичний аналіз">
+				<student name="Богдашин Кирило Вадимович" grade="69"/>
+				<student name="Іващук Кирило Бубіч" grade="83"/>
+			</discipline>
+			<discipline name="Теорія ймовірностей">
+				<student name="Богдашин Кирило Вадимович" grade="34"/>
+				<student name="Іващук Кирило Бубіч" grade="67"/>
+			</discipline>
+			<discipline name="Диференціальні рівняння">
+				<student name="Богдашин Кирило Вадимович" grade="68"/>
+				<student name="Іващук Кирило Бубіч" grade="77"/>
+			</discipline>
+		</department>
+		<department name="Кафедра дослідження операцій">
+			<discipline name="ООП">
+				<student name="Біг Бос Володимирович" grade="100"/>
+				<student name="Піца Моцарела Лукич" grade="65"/>
+				<student name="Крупа Іван Дроздович" grade="86"/>
+			</discipline>
+			<discipline name="C++. Додаткові розділи">
+				<student name="Біг Бос Володимирович" grade="93"/>
+				<student name="Піца Моцарела Лукич" grade="69"/>
+				<student name="Крупа Іван Дроздович" grade="81"/>
+			</discipline>
+			<discipline name="Політологія">
+				<student name="Біг Бос Володимирович" grade="98"/>
+				<student name="Піца Моцарела Лукич" grade="89"/>
+				<student name="Крупа Іван Дроздович" grade="72"/>
+			</discipline>
+		</department>
+		<department name="Кафедра інтелектуальних програмних систем">
+			<discipline name="ООП">
+				<student name="Лампа Олена Денисівна" grade="69"/>
+				<student name="Шалена Бджілка Рошенівна" grade="42"/>
+				<student name="Шаміна Вікторія Дмитрівна" grade="56"/>
+			</discipline>
+			<discipline name="Дискретна математика">
+				<student name="Лампа Олена Денисівна" grade="93"/>
+				<student name="Шалена Бджілка Рошенівна" grade="75"/>
+				<student name="Шаміна Вікторія Дмитрівна" grade="88"/>
+			</discipline>
+			<discipline name="Соціологія">
+				<student name="Лампа Олена Денисівна" grade="95"/>
+				<student name="Шалена Бджілка Рошенівна" grade="82"/>
+				<student name="Шаміна Вікторія Дмитрівна" grade="73"/>
+			</discipline>
+		</department>
+	</faculty>
+	<faculty name="Факультет психології">
+		<department name="Кафедра загальної психології">
+			<discipline name="Психологія">
+				<student name="Сергієнко Поліна Сергіївна" grade="70"/>
+				<student name="Крутелик Пупа Лупівна" grade="80"/>
+			</discipline>
+			<discipline name="Історія">
+				<student name="Сергієнко Поліна Сергіївна" grade="86"/>
+				<student name="Крутелик Пупа Лупівна" grade="65"/>
+			</discipline>
+			<discipline name="Філософія">
+				<student name="Сергієнко Поліна Сергіївна" grade="93"/>
+				<student name="Крутелик Пупа Лупівна" grade="94"/>
+			</discipline>
+		</department>
+		<department name="Кафедра педагогіки">
+			<discipline name="Психологія">
+				<student name="Кисель Владислав Сергійович" grade="42"/>
+				<student name="Прущак Констянтин Володимирович" grade="100"/>
+				<student name="Прущак Людмила Анатоліївна" grade="93"/>
+			</discipline>
+			<discipline name="Філософія">
+				<student name="Кисель Владислав Сергійович" grade="64"/>
+				<student name="Прущак Констянтин Володимирович" grade="100"/>
+				<student name="Прущак Людмила Анатоліївна" grade="92"/>
+			</discipline>
+			<discipline name="Педагогіка">
+				<student name="Кисель Владислав Сергійович" grade="87"/>
+				<student name="Прущак Констянтин Володимирович" grade="100"/>
+				<student name="Прущак Людмила Анатоліївна" grade="97"/>
+			</discipline>
+		</department>
+	</faculty>
+</university>
